@@ -1,6 +1,7 @@
 📚 Librería Cervantes
 
 ¡Bienvenido a Librería Cervantes! Este proyecto es una aplicación en Java que gestiona libros y autores con funcionalidades avanzadas como búsqueda, estadísticas y filtrado de datos. La aplicación utiliza repositorios y herramientas para interactuar con bases de datos y manipular información sobre libros y autores.
+
 🛠️ Funcionalidades
 
     Buscar Libro
