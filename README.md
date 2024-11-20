@@ -69,77 +69,7 @@ Importa el proyecto en tu IDE favorito como un proyecto Maven.
 Ejecuta la clase Principal desde el paquete com.francisco.libreria_cervantes.
 Sigue las instrucciones del menú para interactuar con la aplicación.
 
-README para el Proyecto Librería Cervantes
-📚 Librería Cervantes
 
-¡Bienvenido a Librería Cervantes! Este proyecto es una aplicación en Java que gestiona libros y autores con funcionalidades avanzadas como búsqueda, estadísticas y filtrado de datos. La aplicación utiliza repositorios y herramientas para interactuar con bases de datos y manipular información sobre libros y autores.
-🛠️ Funcionalidades
-
-    Buscar Libro
-    Permite buscar libros por nombre e integrarlos a la base de datos si no existen.
-
-    Listar Libros Buscados
-    Muestra todos los libros registrados en la base de datos.
-
-    Listar Autores Registrados
-    Despliega una lista de todos los autores disponibles.
-
-    Listar Autores durante un Periodo de Tiempo
-    Encuentra autores vivos en un año específico.
-
-    Listar Libros por Idioma
-    Filtra los libros según el idioma seleccionado.
-
-    Estadísticas de Libros Descargados
-    Genera estadísticas como el promedio, total y número de descargas.
-
-    Top 10 Libros más Descargados
-    Presenta los diez libros más populares según las descargas.
-
-    Buscar Autores por Nombre
-    Encuentra un autor específico por su nombre.
-
-    Filtrar Autor por Año de Muerte
-    Busca autores según el año de su fallecimiento.
-
-    Filtrar Autor por Año de Nacimiento
-    Filtra autores basándose en su año de nacimiento.
-
-    Salir
-    Finaliza la ejecución del programa.
-
-📂 Estructura del Proyecto
-
-El proyecto está organizado en los siguientes paquetes:
-
-    com.francisco.libreria_cervantes
-    Contiene la clase principal Principal que gestiona la interacción del usuario.
-
-    com.francisco.libreria_cervantes.herramientas
-    Incluye herramientas como el Buscador para realizar búsquedas de libros.
-
-    com.francisco.libreria_cervantes.modelos
-    Define las clases modelo como Libro.
-
-    com.francisco.libreria_cervantes.repositorio
-    Contiene los repositorios LibroRepository y AutorersRepository para gestionar los datos de libros y autores.
-
-🚀 Instalación y Ejecución
-Prerrequisitos
-
-    Java 11+
-    IDE como IntelliJ IDEA, Eclipse o similar
-    Maven configurado en el sistema
-
-Pasos para Ejecutar
-
-    Clona este repositorio:
-
-    git clone https://github.com/tu-usuario/libreria-cervantes.git
-
-    Importa el proyecto en tu IDE favorito como un proyecto Maven.
-    Ejecuta la clase Principal desde el paquete com.francisco.libreria_cervantes.
-    Sigue las instrucciones del menú para interactuar con la aplicación.
 
 📈 Tecnologías Utilizadas
 
